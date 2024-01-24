@@ -114,7 +114,7 @@ Incompatible with the accuracy and lockdown module.</desc>
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Status - Pierce
@@ -147,7 +147,7 @@ Status - Pierce
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Status - Bio
@@ -209,7 +209,7 @@ Status - Bio
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Status - Cooldown
@@ -242,7 +242,7 @@ Status - Cooldown
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Status - Stun
@@ -276,7 +276,7 @@ Status - Stun
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -309,7 +309,7 @@ Attribute - Fire
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -343,7 +343,7 @@ Attribute - Hull
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -376,7 +376,7 @@ Attribute - Power
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -410,7 +410,7 @@ Status - Pierce
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -473,7 +473,7 @@ Status - Bio
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -507,7 +507,7 @@ Status - Cooldown
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -542,7 +542,7 @@ Status - Stun
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -577,7 +577,7 @@ Status - Pierce
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -640,7 +640,7 @@ Status - Bio
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -675,7 +675,7 @@ Status - Cooldown
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -711,7 +711,7 @@ Status - Stun
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -745,7 +745,7 @@ Status - Pierce
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -808,7 +808,7 @@ Status - Bio
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -842,7 +842,7 @@ Status - Cooldown
   <flavorType>Pinpoint</flavorType>
   <title>Modular Pinpoint</title>
   <tip>tip_focus</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Pinpoint. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -924,7 +924,7 @@ Has no incompatibilities.</desc>
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Status - Bio
@@ -1004,7 +1004,7 @@ Status - Bio
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Status - Pierce
@@ -1054,7 +1054,7 @@ Status - Pierce
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Status - Cooldown
@@ -1104,7 +1104,7 @@ Status - Cooldown
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Status - Lockdown
@@ -1155,7 +1155,7 @@ Status - Lockdown
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Status - Stun
@@ -1206,7 +1206,7 @@ Status - Stun
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -1256,7 +1256,7 @@ Attribute - Fire
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Accuracy
@@ -1307,7 +1307,7 @@ Attribute - Accuracy
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -1358,7 +1358,7 @@ Attribute - Hull
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -1408,7 +1408,7 @@ Attribute - Power
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -1489,7 +1489,7 @@ Status - Bio
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -1540,7 +1540,7 @@ Status - Pierce
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -1591,7 +1591,7 @@ Status - Cooldown
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -1643,7 +1643,7 @@ Status - Lockdown
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -1695,7 +1695,7 @@ Status - Stun
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Accuracy
@@ -1777,7 +1777,7 @@ Status - Bio
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Accuracy
@@ -1829,7 +1829,7 @@ Status - Pierce
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Accuracy
@@ -1881,7 +1881,7 @@ Status - Cooldown
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Accuracy
@@ -1934,7 +1934,7 @@ Status - Lockdown
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Accuracy
@@ -1987,7 +1987,7 @@ Status - Stun
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -2069,7 +2069,7 @@ Status - Bio
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -2121,7 +2121,7 @@ Status - Pierce
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -2173,7 +2173,7 @@ Status - Cooldown
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -2226,7 +2226,7 @@ Status - Lockdown
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -2279,7 +2279,7 @@ Status - Stun
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -2360,7 +2360,7 @@ Status - Bio
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -2411,7 +2411,7 @@ Status - Pierce
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -2462,7 +2462,7 @@ Status - Cooldown
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -2514,7 +2514,7 @@ Status - Lockdown
   <type>BURST</type>
   <title>Modular Flak</title>
   <tip>tip_flak</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Flak. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -2600,7 +2600,7 @@ Incompatible with the piercing module.</desc>
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Status - Bio
@@ -2667,7 +2667,7 @@ Status - Bio
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Status - Cooldown
@@ -2705,7 +2705,7 @@ Status - Cooldown
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Status - Lockdown
@@ -2744,7 +2744,7 @@ Status - Lockdown
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Status - Stun
@@ -2784,7 +2784,7 @@ Status - Stun
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -2822,7 +2822,7 @@ Attribute - Fire
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Accuracy
@@ -2861,7 +2861,7 @@ Attribute - Accuracy
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -2899,7 +2899,7 @@ Attribute - Hull
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -2937,7 +2937,7 @@ Attribute - Power
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -3005,7 +3005,7 @@ Status - Bio
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -3044,7 +3044,7 @@ Status - Cooldown
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -3084,7 +3084,7 @@ Status - Lockdown
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Fire
@@ -3125,7 +3125,7 @@ Status - Stun
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Accuracy
@@ -3194,7 +3194,7 @@ Status - Bio
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Accuracy
@@ -3234,7 +3234,7 @@ Status - Cooldown
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Accuracy
@@ -3275,7 +3275,7 @@ Status - Lockdown
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Accuracy
@@ -3317,7 +3317,7 @@ Status - Stun
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -3385,7 +3385,7 @@ Status - Bio
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -3424,7 +3424,7 @@ Status - Cooldown
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -3464,7 +3464,7 @@ Status - Lockdown
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Hull
@@ -3505,7 +3505,7 @@ Status - Stun
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -3573,7 +3573,7 @@ Status - Bio
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -3612,7 +3612,7 @@ Status - Cooldown
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
@@ -3652,7 +3652,7 @@ Status - Lockdown
   <type>BOMB</type>
   <title>Modular Bomb</title>
   <tip>tip_bombs</tip>
-  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Laser. It supports 1 attribute module and 1 status module.
+  <desc>Produced by Hektar Industries(TM), this is the base for a Modular Bomb. It supports 1 attribute module and 1 status module.
 Has no incompatible modules.
 ----CURRENTLY INSTALLED MODULES----
 Attribute - Power
